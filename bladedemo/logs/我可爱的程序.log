@@ -1,0 +1,262 @@
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.env          => default
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.pid          => 7680
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.devMode      => true
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : jdk.version      => 1.8.0_131
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.dir         => D:\workspace\my2019\bladedemo
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : java.io.tmpdir   => C:\Users\lipeng\AppData\Local\Temp\
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.timezone    => Asia/Shanghai
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : file.encoding    => UTF-8
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.classpath    => D:/workspace/my2019/bladedemo/target/classes/
+2019/02/12 15:03:27  WARN [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : 	Route / -> GET has exist
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  POST    /save
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  PUT     /update
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /header
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /cookie
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  DELETE  /delete/:uid
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello2
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  BEFORE  /.*
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  AFTER   /.*
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Register bean: [com.blade.Environment@5986f4a4, com.dream.demo.bladedemo.Hook1@524f4859, com.dream.demo.bladedemo.Hook1@524f4859, com.dream.demo.bladedemo.IndexController@2897dcdf]
+2019/02/12 15:03:27  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Use NioEventLoopGroup
+2019/02/12 15:03:28  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : 我可爱的程序 initialize successfully, Time elapsed: 643 ms
+2019/02/12 15:03:28  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Blade start with  0.0.0.0:9000 
+2019/02/12 15:03:28  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Open browser access http://127.0.0.1:9000 ⚡
+
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.env          => default
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.pid          => 1464
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.devMode      => true
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : jdk.version      => 1.8.0_131
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.dir         => D:\workspace\my2019\bladedemo
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : java.io.tmpdir   => C:\Users\lipeng\AppData\Local\Temp\
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.timezone    => Asia/Shanghai
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : file.encoding    => UTF-8
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.classpath    => D:/workspace/my2019/bladedemo/target/classes/
+2019/02/12 15:06:06  WARN [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : 	Route / -> GET has exist
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  POST    /save
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  PUT     /update
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /header
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /cookie
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  DELETE  /delete/:uid
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello2
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  BEFORE  /.*
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  AFTER   /.*
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Register bean: [com.blade.Environment@3b9807b7, com.dream.demo.bladedemo.Hook1@6330e7d7, com.dream.demo.bladedemo.Hook1@6330e7d7, com.dream.demo.bladedemo.IndexController@6056b0d9]
+2019/02/12 15:06:06  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Use NioEventLoopGroup
+2019/02/12 15:06:07  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : 我可爱的程序 initialize successfully, Time elapsed: 626 ms
+2019/02/12 15:06:07  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Blade start with  0.0.0.0:9000 
+2019/02/12 15:06:07  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Open browser access http://127.0.0.1:9000 ⚡
+
+2019/02/12 15:06:16  INFO [   worker@thread-1 ]       c.b.s.n.HttpServerHandler :  200    41ms  GET    /
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.env          => default
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.pid          => 7888
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.devMode      => true
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : jdk.version      => 1.8.0_131
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.dir         => D:\workspace\my2019\bladedemo
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : java.io.tmpdir   => C:\Users\lipeng\AppData\Local\Temp\
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.timezone    => Asia/Shanghai
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : file.encoding    => UTF-8
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.classpath    => D:/workspace/my2019/bladedemo/target/classes/
+2019/02/12 15:10:22  WARN [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : 	Route / -> GET has exist
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  POST    /save
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  PUT     /update
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /header
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /cookie
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  DELETE  /delete/:uid
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello2
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  BEFORE  /.*
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  AFTER   /.*
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Register bean: [com.blade.Environment@2fd88fb3, com.dream.demo.bladedemo.Hook1@1044b516, com.dream.demo.bladedemo.Hook1@1044b516, com.dream.demo.bladedemo.IndexController@57ecd393]
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Use NioEventLoopGroup
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : 我可爱的程序 initialize successfully, Time elapsed: 682 ms
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Blade start with  0.0.0.0:9000 
+2019/02/12 15:10:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Open browser access http://127.0.0.1:9000 ⚡
+
+2019/02/12 15:10:28  INFO [   worker@thread-1 ]       c.b.s.n.HttpServerHandler :  200    40ms  GET    /
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.env          => default
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.pid          => 7396
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.devMode      => true
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : jdk.version      => 1.8.0_131
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.dir         => D:\workspace\my2019\bladedemo
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : java.io.tmpdir   => C:\Users\lipeng\AppData\Local\Temp\
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.timezone    => Asia/Shanghai
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : file.encoding    => UTF-8
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.classpath    => D:/workspace/my2019/bladedemo/target/classes/
+2019/02/12 15:13:58  WARN [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : 	Route / -> GET has exist
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  POST    /save
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  PUT     /update
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /header
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /cookie
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  DELETE  /delete/:uid
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello2
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  BEFORE  /.*
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  AFTER   /.*
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Register bean: [com.blade.Environment@21df28a2, com.dream.demo.bladedemo.Hook1@20d5ff0c, com.dream.demo.bladedemo.Hook1@20d5ff0c, com.dream.demo.bladedemo.SimpleTask@1c57b781, com.dream.demo.bladedemo.IndexController@4ba085fa]
+2019/02/12 15:13:58  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Use NioEventLoopGroup
+2019/02/12 15:13:59  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : 我可爱的程序 initialize successfully, Time elapsed: 744 ms
+2019/02/12 15:13:59  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Blade start with  0.0.0.0:9000 
+2019/02/12 15:13:59  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Open browser access http://127.0.0.1:9000 ⚡
+
+2019/02/12 15:13:59  INFO [          _(:3」∠)_ ]               c.b.t.TaskManager : Add task [task-0]
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.env          => default
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.pid          => 7736
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.devMode      => true
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : jdk.version      => 1.8.0_131
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.dir         => D:\workspace\my2019\bladedemo
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : java.io.tmpdir   => C:\Users\lipeng\AppData\Local\Temp\
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.timezone    => Asia/Shanghai
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : file.encoding    => UTF-8
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.classpath    => D:/workspace/my2019/bladedemo/target/classes/
+2019/02/12 16:14:07  WARN [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : 	Route / -> GET has exist
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  POST    /save
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  PUT     /update
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /header
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /cookie
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  DELETE  /delete/:uid
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello2
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello3
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  BEFORE  /.*
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  AFTER   /.*
+2019/02/12 16:14:07  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Register bean: [com.blade.Environment@1c57b781, com.dream.demo.bladedemo.Hook1@4ba085fa, com.dream.demo.bladedemo.Hook1@4ba085fa, com.dream.demo.bladedemo.SimpleTask@13e22e14, com.dream.demo.bladedemo.IndexController@1c408efb]
+2019/02/12 16:14:08 ERROR [          _(:3」∠)_ ]                       c.b.Blade : Start blade failed java.lang.RuntimeException: java.lang.IllegalStateException: Can't inject bean: com.dream.demo.bladedemo.UserService for field: com.dream.demo.bladedemo.UserService com.dream.demo.bladedemo.IndexController.userService
+	at com.blade.ioc.bean.FieldInjector.injection(FieldInjector.java:43)
+	at com.blade.kit.IocKit.lambda$initInjection$4(IocKit.java:113)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at com.blade.kit.IocKit.initInjection(IocKit.java:111)
+	at com.blade.server.netty.NettyServer.lambda$initIoc$2(NettyServer.java:173)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at com.blade.server.netty.NettyServer.initIoc(NettyServer.java:172)
+	at com.blade.server.netty.NettyServer.start(NettyServer.java:131)
+	at com.blade.Blade.lambda$start$1(Blade.java:855)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.IllegalStateException: Can't inject bean: com.dream.demo.bladedemo.UserService for field: com.dream.demo.bladedemo.UserService com.dream.demo.bladedemo.IndexController.userService
+	at com.blade.ioc.bean.FieldInjector.injection(FieldInjector.java:39)
+	... 9 more
+
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.env          => default
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.pid          => 6536
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.devMode      => true
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : jdk.version      => 1.8.0_131
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.dir         => D:\workspace\my2019\bladedemo
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : java.io.tmpdir   => C:\Users\lipeng\AppData\Local\Temp\
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.timezone    => Asia/Shanghai
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : file.encoding    => UTF-8
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.classpath    => D:/workspace/my2019/bladedemo/target/classes/
+2019/02/12 16:16:20  WARN [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : 	Route / -> GET has exist
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  POST    /save
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  PUT     /update
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /header
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /cookie
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  DELETE  /delete/:uid
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello2
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello3
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  BEFORE  /.*
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  AFTER   /.*
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Register bean: [com.blade.Environment@1c57b781, com.dream.demo.bladedemo.UserService@4ba085fa, com.dream.demo.bladedemo.Hook1@13e22e14, com.dream.demo.bladedemo.Hook1@13e22e14, com.dream.demo.bladedemo.SimpleTask@1c408efb, com.dream.demo.bladedemo.IndexController@3d8ad94d]
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Use NioEventLoopGroup
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : 我可爱的程序 initialize successfully, Time elapsed: 630 ms
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Blade start with  0.0.0.0:9000 
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Open browser access http://127.0.0.1:9000 ⚡
+
+2019/02/12 16:16:20  INFO [          _(:3」∠)_ ]               c.b.t.TaskManager : Add task [task-0]
+2019/02/12 16:16:38  INFO [   worker@thread-1 ]       c.b.s.n.HttpServerHandler :  200    52ms  GET    /hello3
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.env          => default
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.pid          => 8040
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.devMode      => true
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : jdk.version      => 1.8.0_131
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.dir         => D:\workspace\my2019\bladedemo
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : java.io.tmpdir   => C:\Users\lipeng\AppData\Local\Temp\
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.timezone    => Asia/Shanghai
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : file.encoding    => UTF-8
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.classpath    => D:/workspace/my2019/bladedemo/target/classes/
+2019/02/12 16:18:22  WARN [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : 	Route / -> GET has exist
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  POST    /save
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  PUT     /update
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /header
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /cookie
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  DELETE  /delete/:uid
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello2
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello3
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  BEFORE  /.*
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  AFTER   /.*
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Register bean: [com.blade.Environment@1c57b781, com.dream.demo.bladedemo.UserService@4ba085fa, com.dream.demo.bladedemo.Hook1@13e22e14, com.dream.demo.bladedemo.Hook1@13e22e14, com.dream.demo.bladedemo.SimpleTask@1c408efb, com.dream.demo.bladedemo.IndexController@3d8ad94d]
+2019/02/12 16:18:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Use NioEventLoopGroup
+2019/02/12 16:18:23  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : 我可爱的程序 initialize successfully, Time elapsed: 645 ms
+2019/02/12 16:18:23  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Blade start with  0.0.0.0:9000 
+2019/02/12 16:18:23  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Open browser access http://127.0.0.1:9000 ⚡
+
+2019/02/12 16:18:23  INFO [          _(:3」∠)_ ]               c.b.t.TaskManager : Add task [task-0]
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.env          => default
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.pid          => 6300
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.devMode      => true
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : jdk.version      => 1.8.0_131
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.dir         => D:\workspace\my2019\bladedemo
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : java.io.tmpdir   => C:\Users\lipeng\AppData\Local\Temp\
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.timezone    => Asia/Shanghai
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : file.encoding    => UTF-8
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.classpath    => D:/workspace/my2019/bladedemo/target/classes/
+2019/03/25 14:16:30  WARN [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : 	Route / -> GET has exist
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  POST    /save
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  PUT     /update
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /header
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /cookie
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  DELETE  /delete/:uid
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello2
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello3
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  BEFORE  /.*
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  AFTER   /.*
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Register bean: [com.blade.Environment@1c57b781, com.dream.demo.bladedemo.UserService@4ba085fa, com.dream.demo.bladedemo.Hook1@13e22e14, com.dream.demo.bladedemo.Hook1@13e22e14, com.dream.demo.bladedemo.SimpleTask@1c408efb, com.dream.demo.bladedemo.IndexController@3d8ad94d]
+2019/03/25 14:16:30  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Use NioEventLoopGroup
+2019/03/25 14:16:31  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : 我可爱的程序 initialize successfully, Time elapsed: 1518 ms
+2019/03/25 14:16:31  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Blade start with  0.0.0.0:9000 
+2019/03/25 14:16:31  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Open browser access http://127.0.0.1:9000 ⚡
+
+2019/03/25 14:16:31  INFO [          _(:3」∠)_ ]               c.b.t.TaskManager : Add task [task-0]
+2019/03/25 14:17:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.env          => default
+2019/03/25 14:17:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.pid          => 5780
+2019/03/25 14:17:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.devMode      => true
+2019/03/25 14:17:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : jdk.version      => 1.8.0_131
+2019/03/25 14:17:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.dir         => D:\workspace\my2019\bladedemo
+2019/03/25 14:17:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : java.io.tmpdir   => C:\Users\lipeng\AppData\Local\Temp\
+2019/03/25 14:17:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : user.timezone    => Asia/Shanghai
+2019/03/25 14:17:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : file.encoding    => UTF-8
+2019/03/25 14:17:22  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : app.classpath    => D:/workspace/my2019/bladedemo/target/classes/
+2019/03/25 14:17:23  WARN [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : 	Route / -> GET has exist
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  POST    /save
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  PUT     /update
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /header
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /cookie
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  DELETE  /delete/:uid
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello2
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add route  GET     /hello3
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  BEFORE  /.*
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]            c.b.m.r.RouteMatcher : Add  hook  AFTER   /.*
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Register bean: [com.blade.Environment@1c57b781, com.dream.demo.bladedemo.UserService@4ba085fa, com.dream.demo.bladedemo.Hook1@13e22e14, com.dream.demo.bladedemo.Hook1@13e22e14, com.dream.demo.bladedemo.SimpleTask@1c408efb, com.dream.demo.bladedemo.IndexController@3d8ad94d]
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Use NioEventLoopGroup
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : 我可爱的程序 initialize successfully, Time elapsed: 636 ms
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Blade start with  0.0.0.0:9000 
+2019/03/25 14:17:23  INFO [          _(:3」∠)_ ]             c.b.s.n.NettyServer : Open browser access http://127.0.0.1:9000 ⚡
+
+2019/03/25 14:17:37  INFO [   worker@thread-1 ]       c.b.s.n.HttpServerHandler :  200    48ms  GET    /
+2019/03/25 14:17:37  WARN [   worker@thread-1 ] c.b.m.h.DefaultExceptionHandler :  404          GET    /favicon.ico
+2019/03/25 14:17:37  WARN [   worker@thread-2 ] c.b.m.h.DefaultExceptionHandler :  404          GET    /favicon.ico
+2019/03/25 14:17:42  INFO [   worker@thread-1 ]       c.b.s.n.HttpServerHandler :  200     1ms  GET    /
+2019/03/25 14:18:00  INFO [   worker@thread-3 ]       c.b.s.n.HttpServerHandler :  200     1ms  GET    /
+2019/03/25 14:18:00  WARN [   worker@thread-3 ] c.b.m.h.DefaultExceptionHandler :  404          GET    /favicon.ico
